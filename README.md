@@ -1,7 +1,7 @@
 # Pneumonia Image Classification
 
 ## Motivation
-Pneumonia is most common cause of hospital admissions other than women giving birth. The goal of this project is to aid medical professionals with pneumonia diagnosis’ by using neural networks to classify pneumonia from a patient’s chest X-ray images. The hope is that our algorithm can help reduce error caused by misinterpretation of chest X-rays, streamline the diagnosis process and that is can lighten the workoad of physicians.
+Pneumonia is most common cause of hospital admissions other than women giving birth. The goal of this project is to aid medical professionals with pneumonia diagnosis’ by using neural networks to classify pneumonia from a patient’s chest X-ray images. The hope is that our algorithm can help reduce error caused by misinterpretation of chest X-rays, streamline the diagnosis process and can help lighten the workoad of physicians.
 
 ## Data
 Data was sourced from Kaggle and collected from Guangzhou Women and Children’s Medical Center. It contains a total of 5,856 images that are classified as either “Normal” [0] or “Pneumonia” [1]. The X-ray images are of pediatric patients, ranging from ages 1-5 years, and were scored by three different medical professionals. Images that were of low-quality or unreadable were removed from the dataset. 
